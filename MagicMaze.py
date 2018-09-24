@@ -37,7 +37,7 @@ if start == 'start' or "Start" or "START":
         print(" \n      GAME OVER        ")
         print("You lost all your lives :(")
     else:
-        print("Congratulations! Felicidades! おめでとうございます! Gratulation! Felicitări!")
+        print("Congratulations! Felicidades! おめでとうございます! Gratulation! Congratulazioni! Felicitări!")
         print("You Win! \n You Guessed the Code in ", guessTaken, " guesses!")
 
 
